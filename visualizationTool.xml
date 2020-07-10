@@ -1,0 +1,25 @@
+<application>
+  <component name="VisualizationTool">
+    <option name="state">
+      <GlobalState>
+        <option name="configurationSetName" value="CUSTOM" />
+        <option name="customConfigurationAttributes">
+          <list>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="26" />
+              <option name="deviceId" value="Nexus S" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="AppTheme" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+          </list>
+        </option>
+        <option name="scale" value="0.22598870056497175" />
+        <option name="showDecoration" value="true" />
+        <option name="visible" value="true" />
+      </GlobalState>
+    </option>
+  </component>
+</application>
